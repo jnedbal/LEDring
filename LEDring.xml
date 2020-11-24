@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/jakub/KiCAD/LEDring/LEDring.sch</source>
+    <date>Tue 27 Oct 2020 16:16:38 GMT</date>
+    <tool>Eeschema 5.1.7-a382d34a8~87~ubuntu20.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>LEDring.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>jakub:LED_Cree_PLCC2</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cree</field>
+        <field name="Note">SMD LED cool white 25 mA</field>
+        <field name="Order Code">1855551</field>
+        <field name="Package">2.7 mm x 2.0 mm</field>
+        <field name="Part Number">CLM3C-WKW-CWBYA453</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F94DC4B</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>jakub:LED_Cree_PLCC2</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cree</field>
+        <field name="Note">SMD LED cool white 25 mA</field>
+        <field name="Order Code">1855551</field>
+        <field name="Package">2.7 mm x 2.0 mm</field>
+        <field name="Part Number">CLM3C-WKW-CWBYA453</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F94E1E0</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>jakub:LED_Cree_PLCC2</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cree</field>
+        <field name="Note">SMD LED cool white 25 mA</field>
+        <field name="Order Code">1855551</field>
+        <field name="Package">2.7 mm x 2.0 mm</field>
+        <field name="Part Number">CLM3C-WKW-CWBYA453</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F94F8B2</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>jakub:LED_Cree_PLCC2</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cree</field>
+        <field name="Note">SMD LED cool white 25 mA</field>
+        <field name="Order Code">1855551</field>
+        <field name="Package">2.7 mm x 2.0 mm</field>
+        <field name="Part Number">CLM3C-WKW-CWBYA453</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F950115</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>jakub:LED_Cree_PLCC2</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cree</field>
+        <field name="Note">SMD LED cool white 25 mA</field>
+        <field name="Order Code">1855551</field>
+        <field name="Package">2.7 mm x 2.0 mm</field>
+        <field name="Part Number">CLM3C-WKW-CWBYA453</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F95194D</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>LED</value>
+      <footprint>jakub:LED_Cree_PLCC2</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cree</field>
+        <field name="Note">SMD LED cool white 25 mA</field>
+        <field name="Order Code">1855551</field>
+        <field name="Package">2.7 mm x 2.0 mm</field>
+        <field name="Part Number">CLM3C-WKW-CWBYA453</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F9519CB</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <footprint>jakub:LED_Cree_PLCC2</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cree</field>
+        <field name="Note">SMD LED cool white 25 mA</field>
+        <field name="Order Code">1855551</field>
+        <field name="Package">2.7 mm x 2.0 mm</field>
+        <field name="Part Number">CLM3C-WKW-CWBYA453</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F9519DA</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <footprint>jakub:LED_Cree_PLCC2</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cree</field>
+        <field name="Note">SMD LED cool white 25 mA</field>
+        <field name="Order Code">1855551</field>
+        <field name="Package">2.7 mm x 2.0 mm</field>
+        <field name="Part Number">CLM3C-WKW-CWBYA453</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F9519E4</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>LED</value>
+      <footprint>jakub:LED_Cree_PLCC2</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cree</field>
+        <field name="Note">SMD LED cool white 25 mA</field>
+        <field name="Order Code">1855551</field>
+        <field name="Package">2.7 mm x 2.0 mm</field>
+        <field name="Part Number">CLM3C-WKW-CWBYA453</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F95CD2B</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>LED</value>
+      <footprint>jakub:LED_Cree_PLCC2</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cree</field>
+        <field name="Note">SMD LED cool white 25 mA</field>
+        <field name="Order Code">1855551</field>
+        <field name="Package">2.7 mm x 2.0 mm</field>
+        <field name="Part Number">CLM3C-WKW-CWBYA453</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F95CE09</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>LED</value>
+      <footprint>jakub:LED_Cree_PLCC2</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cree</field>
+        <field name="Note">SMD LED cool white 25 mA</field>
+        <field name="Order Code">1855551</field>
+        <field name="Package">2.7 mm x 2.0 mm</field>
+        <field name="Part Number">CLM3C-WKW-CWBYA453</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F95CE18</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>LED</value>
+      <footprint>jakub:LED_Cree_PLCC2</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cree</field>
+        <field name="Note">SMD LED cool white 25 mA</field>
+        <field name="Order Code">1855551</field>
+        <field name="Package">2.7 mm x 2.0 mm</field>
+        <field name="Part Number">CLM3C-WKW-CWBYA453</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F95CE22</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>LED</value>
+      <footprint>jakub:LED_Cree_PLCC2</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cree</field>
+        <field name="Note">SMD LED cool white 25 mA</field>
+        <field name="Order Code">1855551</field>
+        <field name="Package">2.7 mm x 2.0 mm</field>
+        <field name="Part Number">CLM3C-WKW-CWBYA453</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F95CE3A</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>LED</value>
+      <footprint>jakub:LED_Cree_PLCC2</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cree</field>
+        <field name="Note">SMD LED cool white 25 mA</field>
+        <field name="Order Code">1855551</field>
+        <field name="Package">2.7 mm x 2.0 mm</field>
+        <field name="Part Number">CLM3C-WKW-CWBYA453</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F95CE44</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>LED</value>
+      <footprint>jakub:LED_Cree_PLCC2</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cree</field>
+        <field name="Note">SMD LED cool white 25 mA</field>
+        <field name="Order Code">1855551</field>
+        <field name="Package">2.7 mm x 2.0 mm</field>
+        <field name="Part Number">CLM3C-WKW-CWBYA453</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F95CE53</tstamp>
+    </comp>
+    <comp ref="D16">
+      <value>LED</value>
+      <footprint>jakub:LED_Cree_PLCC2</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cree</field>
+        <field name="Note">SMD LED cool white 25 mA</field>
+        <field name="Order Code">1855551</field>
+        <field name="Package">2.7 mm x 2.0 mm</field>
+        <field name="Part Number">CLM3C-WKW-CWBYA453</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F95CE5D</tstamp>
+    </comp>
+    <comp ref="D17">
+      <value>LED</value>
+      <footprint>jakub:LED_Cree_PLCC2</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cree</field>
+        <field name="Note">SMD LED cool white 25 mA</field>
+        <field name="Order Code">1855551</field>
+        <field name="Package">2.7 mm x 2.0 mm</field>
+        <field name="Part Number">CLM3C-WKW-CWBYA453</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F96214D</tstamp>
+    </comp>
+    <comp ref="D18">
+      <value>LED</value>
+      <footprint>jakub:LED_Cree_PLCC2</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cree</field>
+        <field name="Note">SMD LED cool white 25 mA</field>
+        <field name="Order Code">1855551</field>
+        <field name="Package">2.7 mm x 2.0 mm</field>
+        <field name="Part Number">CLM3C-WKW-CWBYA453</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F96216B</tstamp>
+    </comp>
+    <comp ref="D19">
+      <value>LED</value>
+      <footprint>jakub:LED_Cree_PLCC2</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cree</field>
+        <field name="Note">SMD LED cool white 25 mA</field>
+        <field name="Order Code">1855551</field>
+        <field name="Package">2.7 mm x 2.0 mm</field>
+        <field name="Part Number">CLM3C-WKW-CWBYA453</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F96217A</tstamp>
+    </comp>
+    <comp ref="D20">
+      <value>LED</value>
+      <footprint>jakub:LED_Cree_PLCC2</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cree</field>
+        <field name="Note">SMD LED cool white 25 mA</field>
+        <field name="Order Code">1855551</field>
+        <field name="Package">2.7 mm x 2.0 mm</field>
+        <field name="Part Number">CLM3C-WKW-CWBYA453</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F962184</tstamp>
+    </comp>
+    <comp ref="D21">
+      <value>LED</value>
+      <footprint>jakub:LED_Cree_PLCC2</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cree</field>
+        <field name="Note">SMD LED cool white 25 mA</field>
+        <field name="Order Code">1855551</field>
+        <field name="Package">2.7 mm x 2.0 mm</field>
+        <field name="Part Number">CLM3C-WKW-CWBYA453</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F96219C</tstamp>
+    </comp>
+    <comp ref="D22">
+      <value>LED</value>
+      <footprint>jakub:LED_Cree_PLCC2</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cree</field>
+        <field name="Note">SMD LED cool white 25 mA</field>
+        <field name="Order Code">1855551</field>
+        <field name="Package">2.7 mm x 2.0 mm</field>
+        <field name="Part Number">CLM3C-WKW-CWBYA453</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F9621A6</tstamp>
+    </comp>
+    <comp ref="D23">
+      <value>LED</value>
+      <footprint>jakub:LED_Cree_PLCC2</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cree</field>
+        <field name="Note">SMD LED cool white 25 mA</field>
+        <field name="Order Code">1855551</field>
+        <field name="Package">2.7 mm x 2.0 mm</field>
+        <field name="Part Number">CLM3C-WKW-CWBYA453</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F9621B5</tstamp>
+    </comp>
+    <comp ref="D24">
+      <value>LED</value>
+      <footprint>jakub:LED_Cree_PLCC2</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cree</field>
+        <field name="Note">SMD LED cool white 25 mA</field>
+        <field name="Order Code">1855551</field>
+        <field name="Package">2.7 mm x 2.0 mm</field>
+        <field name="Part Number">CLM3C-WKW-CWBYA453</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F9621BF</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F9C80B6</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Multicomp</field>
+        <field name="Package">1206</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA2C9CE</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Multicomp</field>
+        <field name="Package">1206</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA2D018</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Multicomp</field>
+        <field name="Package">1206</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA2D421</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Multicomp</field>
+        <field name="Package">1206</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA2D945</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Multicomp</field>
+        <field name="Note">0Ω 250 mW resistor 1206</field>
+        <field name="Order Code">2695115</field>
+        <field name="Package">1206</field>
+        <field name="Part Number">MCWR12X000 PTL</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA7BC9B</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Multicomp</field>
+        <field name="Note">0Ω 250 mW resistor 1206</field>
+        <field name="Order Code">2695115</field>
+        <field name="Package">1206</field>
+        <field name="Part Number">MCWR12X000 PTL</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA943AA</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Multicomp</field>
+        <field name="Note">0Ω 250 mW resistor 1206</field>
+        <field name="Order Code">2695115</field>
+        <field name="Package">1206</field>
+        <field name="Part Number">MCWR12X000 PTL</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA9489B</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Multicomp</field>
+        <field name="Note">0Ω 250 mW resistor 1206</field>
+        <field name="Order Code">2695115</field>
+        <field name="Package">1206</field>
+        <field name="Part Number">MCWR12X000 PTL</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA94C46</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical_SMD_Pin1Left</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FB7FE15</tstamp>
+    </comp>
+    <comp ref="H1">
+      <value>3mm</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FBA0CBA</tstamp>
+    </comp>
+    <comp ref="H2">
+      <value>3mm</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FBA2182</tstamp>
+    </comp>
+    <comp ref="H3">
+      <value>3mm</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FBA2E99</tstamp>
+    </comp>
+    <comp ref="H4">
+      <value>3mm</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FBA3424</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>4u7/50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Murata</field>
+        <field name="Note">4.7µF/50V X7R ceramic capacitor 1206</field>
+        <field name="Order Code">1735545</field>
+        <field name="Package">1206</field>
+        <field name="Part Number">GRM31CR71H475KA12L</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FBA3E42</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>IRLML6344</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Infineon</field>
+        <field name="Note">HEXFET N-channel MOSFET 4 Amp 30 V</field>
+        <field name="Order Code">1857299</field>
+        <field name="Package">SOT-23</field>
+        <field name="Part Number">IRLML6344TRPBF</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FC0893D</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>IRLML6344</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Infineon</field>
+        <field name="Note">HEXFET N-channel MOSFET 4 Amp 30 V</field>
+        <field name="Order Code">1857299</field>
+        <field name="Package">SOT-23</field>
+        <field name="Part Number">IRLML6344TRPBF</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FC0A9EF</tstamp>
+    </comp>
+    <comp ref="Q3">
+      <value>IRLML6344</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Infineon</field>
+        <field name="Note">HEXFET N-channel MOSFET 4 Amp 30 V</field>
+        <field name="Order Code">1857299</field>
+        <field name="Package">SOT-23</field>
+        <field name="Part Number">IRLML6344TRPBF</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FC0B58B</tstamp>
+    </comp>
+    <comp ref="Q4">
+      <value>IRLML6344</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Alt. Supplier">HEXFET N-channel MOSFET 4 Amp 30 V</field>
+        <field name="Manufacturer">Farnell</field>
+        <field name="Order Code">1857299</field>
+        <field name="Package">SOT-23</field>
+        <field name="Part Number">IRLML6344TRPBF</field>
+        <field name="Supplier">Infineon</field>
+      </fields>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FC0CE92</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>4u7/50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Murata</field>
+        <field name="Note">4.7µF/50V X7R ceramic capacitor 1206</field>
+        <field name="Order Code">1735545</field>
+        <field name="Package">1206</field>
+        <field name="Part Number">GRM31CR71H475KA12L</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FC0EDA7</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>4u7/50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Murata</field>
+        <field name="Note">4.7µF/50V X7R ceramic capacitor 1206</field>
+        <field name="Order Code">1735545</field>
+        <field name="Package">1206</field>
+        <field name="Part Number">GRM31CR71H475KA12L</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FC0F353</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>4u7/50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Murata</field>
+        <field name="Note">4.7µF/50V X7R ceramic capacitor 1206</field>
+        <field name="Order Code">1735545</field>
+        <field name="Package">1206</field>
+        <field name="Part Number">GRM31CR71H475KA12L</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FC0F77A</tstamp>
+    </comp>
+    <comp ref="HS1">
+      <value>Heatsink</value>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Fisher Elektronik</field>
+        <field name="Note">8.6 °C/W 43mm x 43mm heatsink</field>
+        <field name="Order Code">4620963</field>
+        <field name="Package">43 mm x 43 mm</field>
+        <field name="Part Number">ICK PGA 17 X17</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Mechanical" part="Heatsink" description="Heatsink"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FD0430E</tstamp>
+    </comp>
+    <comp ref="PS1">
+      <value>T5888ST</value>
+      <datasheet>https://www.recom-power.com/pdf/Powerline-AC-DC/RAC01-GB.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Stontronics</field>
+        <field name="Note">6W 24 VDC wall plug power supply 2.1 mm barrel jack</field>
+        <field name="Order Code">3378073</field>
+        <field name="Package">Wall plug</field>
+        <field name="Part Number">T5888ST</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Converter_ACDC" part="RAC01-24SGB" description="1 Watt Single Output EMC Class B AC/DC 24V 42mA power supply with regulated and short-circuit-proof isolated DC outputs and low standby power consumption."/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FD064A0</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>2.1mm Jack</value>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Cliff Electronics</field>
+        <field name="Note">Panel mounting DC socket 2.1mm</field>
+        <field name="Order Code">2353931</field>
+        <field name="Package">Panel</field>
+        <field name="Part Number">FC681473</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FD26067</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>SMA</value>
+      <fields>
+        <field name="Manufacturer">Multicomp</field>
+        <field name="Note">SMA panel mount solder terminal</field>
+        <field name="Order Code">2846780</field>
+        <field name="Package">SMA panel mount</field>
+        <field name="Part Number">MC002126</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="jakub" part="SMA" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FD36780</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Manufacturer">Multicomp</field>
+        <field name="Note">0Ω 250 mW resistor 1206</field>
+        <field name="Order Code">2695115</field>
+        <field name="Package">1206</field>
+        <field name="Part Number">MCWR12X000 PTL</field>
+        <field name="Supplier">Farnell</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FD7EDB9</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Barrel_Jack">
+      <aliases>
+        <alias>Jack-DC</alias>
+      </aliases>
+      <description>DC Barrel Jack</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Barrel_Jack</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Converter_ACDC" part="RAC01-xxSGB">
+      <aliases>
+        <alias>RAC01-05SGB</alias>
+        <alias>RAC01-12SGB</alias>
+        <alias>RAC01-3.3SGB</alias>
+        <alias>RAC01-24SGB</alias>
+      </aliases>
+      <description>1 Watt Single Output EMC Class B AC/DC power supply with regulated and short-circuit-proof isolated DC outputs and low standby power consumption.</description>
+      <docs>https://www.recom-power.com/pdf/Powerline-AC-DC/RAC01-GB.pdf</docs>
+      <footprints>
+        <fp>Converter*ACDC*RECOM*RAC01*SGB*THT*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">PS</field>
+        <field name="Value">RAC01-xxSGB</field>
+        <field name="Footprint">Converter_ACDC:Converter_ACDC_RECOM_RAC01-xxSGB_THT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="AC(N)" type="power_in"/>
+        <pin num="2" name="AC(L)" type="power_in"/>
+        <pin num="3" name="Vout-" type="power_out"/>
+        <pin num="4" name="Vout+" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NMOS_GSD">
+      <description>N-MOSFET transistor, gate/source/drain</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NMOS_GSD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="Heatsink">
+      <description>Heatsink</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Heatsink_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">HS</field>
+        <field name="Value">Heatsink</field>
+      </fields>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+      </fields>
+    </libpart>
+    <libpart lib="jakub" part="SMA">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SMA</field>
+        <field name="Footprint">SMA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="RF" type="BiDi"/>
+        <pin num="2" name="GND1" type="power_in"/>
+        <pin num="3" name="GND2" type="power_in"/>
+        <pin num="4" name="GND3" type="power_in"/>
+        <pin num="5" name="GND4" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/library/Connector.lib</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad/library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Converter_ACDC">
+      <uri>/usr/share/kicad/library/Converter_ACDC.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/library/Device.lib</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad/library/Mechanical.lib</uri>
+    </library>
+    <library logical="jakub">
+      <uri>/home/jakub/KiCAD/share/library/contrib/jakub/jakub.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+24V">
+      <node ref="C2" pin="1"/>
+      <node ref="C3" pin="1"/>
+      <node ref="C4" pin="1"/>
+      <node ref="R4" pin="1"/>
+      <node ref="C1" pin="1"/>
+      <node ref="R10" pin="1"/>
+      <node ref="R6" pin="1"/>
+      <node ref="J1" pin="1"/>
+      <node ref="R8" pin="1"/>
+    </net>
+    <net code="2" name="Net-(C4-Pad2)">
+      <node ref="Q4" pin="2"/>
+      <node ref="R9" pin="1"/>
+      <node ref="C4" pin="2"/>
+    </net>
+    <net code="3" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2"/>
+      <node ref="R10" pin="2"/>
+    </net>
+    <net code="4" name="Net-(D13-Pad2)">
+      <node ref="R8" pin="2"/>
+      <node ref="D13" pin="2"/>
+    </net>
+    <net code="5" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2"/>
+      <node ref="R6" pin="2"/>
+    </net>
+    <net code="6" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2"/>
+      <node ref="Q3" pin="2"/>
+      <node ref="R7" pin="1"/>
+    </net>
+    <net code="7" name="Net-(C2-Pad2)">
+      <node ref="Q2" pin="2"/>
+      <node ref="R5" pin="1"/>
+      <node ref="C2" pin="2"/>
+    </net>
+    <net code="8" name="Net-(D1-Pad2)">
+      <node ref="R4" pin="2"/>
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="9" name="Net-(Q1-Pad1)">
+      <node ref="R1" pin="2"/>
+      <node ref="R2" pin="1"/>
+      <node ref="Q4" pin="1"/>
+      <node ref="Q2" pin="1"/>
+      <node ref="Q1" pin="1"/>
+      <node ref="Q3" pin="1"/>
+    </net>
+    <net code="10" name="Net-(PS1-Pad2)">
+      <node ref="PS1" pin="2"/>
+    </net>
+    <net code="11" name="Net-(J2-Pad2)">
+      <node ref="J2" pin="2"/>
+    </net>
+    <net code="12" name="Net-(J2-Pad1)">
+      <node ref="J2" pin="1"/>
+    </net>
+    <net code="13" name="Net-(PS1-Pad4)">
+      <node ref="PS1" pin="4"/>
+    </net>
+    <net code="14" name="Net-(PS1-Pad3)">
+      <node ref="PS1" pin="3"/>
+    </net>
+    <net code="15" name="Net-(PS1-Pad1)">
+      <node ref="PS1" pin="1"/>
+    </net>
+    <net code="16" name="Net-(J3-Pad1)">
+      <node ref="J3" pin="1"/>
+    </net>
+    <net code="17" name="Net-(D24-Pad1)">
+      <node ref="D24" pin="1"/>
+      <node ref="Q4" pin="3"/>
+    </net>
+    <net code="18" name="Net-(J1-Pad3)">
+      <node ref="R1" pin="1"/>
+      <node ref="J1" pin="3"/>
+    </net>
+    <net code="19" name="Net-(J3-Pad5)">
+      <node ref="J3" pin="5"/>
+    </net>
+    <net code="20" name="Net-(J3-Pad4)">
+      <node ref="J3" pin="4"/>
+    </net>
+    <net code="21" name="Net-(J3-Pad3)">
+      <node ref="J3" pin="3"/>
+    </net>
+    <net code="22" name="Net-(J3-Pad2)">
+      <node ref="J3" pin="2"/>
+    </net>
+    <net code="23" name="GND">
+      <node ref="R5" pin="2"/>
+      <node ref="R3" pin="2"/>
+      <node ref="R7" pin="2"/>
+      <node ref="R9" pin="2"/>
+      <node ref="J1" pin="2"/>
+      <node ref="J1" pin="4"/>
+    </net>
+    <net code="24" name="Net-(D18-Pad1)">
+      <node ref="D18" pin="1"/>
+      <node ref="Q3" pin="3"/>
+    </net>
+    <net code="25" name="Net-(D6-Pad1)">
+      <node ref="D6" pin="1"/>
+      <node ref="Q1" pin="3"/>
+    </net>
+    <net code="26" name="Net-(C1-Pad2)">
+      <node ref="R2" pin="2"/>
+      <node ref="Q1" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="R3" pin="1"/>
+    </net>
+    <net code="27" name="Net-(D12-Pad1)">
+      <node ref="D12" pin="1"/>
+      <node ref="Q2" pin="3"/>
+    </net>
+    <net code="28" name="Net-(D10-Pad1)">
+      <node ref="D11" pin="2"/>
+      <node ref="D10" pin="1"/>
+    </net>
+    <net code="29" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2"/>
+      <node ref="D9" pin="1"/>
+    </net>
+    <net code="30" name="Net-(D11-Pad1)">
+      <node ref="D12" pin="2"/>
+      <node ref="D11" pin="1"/>
+    </net>
+    <net code="31" name="Net-(D4-Pad1)">
+      <node ref="D5" pin="2"/>
+      <node ref="D4" pin="1"/>
+    </net>
+    <net code="32" name="Net-(D8-Pad1)">
+      <node ref="D9" pin="2"/>
+      <node ref="D8" pin="1"/>
+    </net>
+    <net code="33" name="Net-(D7-Pad1)">
+      <node ref="D7" pin="1"/>
+      <node ref="D8" pin="2"/>
+    </net>
+    <net code="34" name="Net-(D13-Pad1)">
+      <node ref="D14" pin="2"/>
+      <node ref="D13" pin="1"/>
+    </net>
+    <net code="35" name="Net-(D2-Pad1)">
+      <node ref="D3" pin="2"/>
+      <node ref="D2" pin="1"/>
+    </net>
+    <net code="36" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1"/>
+      <node ref="D4" pin="2"/>
+    </net>
+    <net code="37" name="Net-(D1-Pad1)">
+      <node ref="D2" pin="2"/>
+      <node ref="D1" pin="1"/>
+    </net>
+    <net code="38" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1"/>
+      <node ref="D6" pin="2"/>
+    </net>
+    <net code="39" name="Net-(D21-Pad1)">
+      <node ref="D21" pin="1"/>
+      <node ref="D22" pin="2"/>
+    </net>
+    <net code="40" name="Net-(D22-Pad1)">
+      <node ref="D22" pin="1"/>
+      <node ref="D23" pin="2"/>
+    </net>
+    <net code="41" name="Net-(D23-Pad1)">
+      <node ref="D24" pin="2"/>
+      <node ref="D23" pin="1"/>
+    </net>
+    <net code="42" name="Net-(D16-Pad1)">
+      <node ref="D16" pin="1"/>
+      <node ref="D17" pin="2"/>
+    </net>
+    <net code="43" name="Net-(D20-Pad1)">
+      <node ref="D20" pin="1"/>
+      <node ref="D21" pin="2"/>
+    </net>
+    <net code="44" name="Net-(D19-Pad1)">
+      <node ref="D20" pin="2"/>
+      <node ref="D19" pin="1"/>
+    </net>
+    <net code="45" name="Net-(D14-Pad1)">
+      <node ref="D15" pin="2"/>
+      <node ref="D14" pin="1"/>
+    </net>
+    <net code="46" name="Net-(D15-Pad1)">
+      <node ref="D15" pin="1"/>
+      <node ref="D16" pin="2"/>
+    </net>
+    <net code="47" name="Net-(D17-Pad1)">
+      <node ref="D18" pin="2"/>
+      <node ref="D17" pin="1"/>
+    </net>
+  </nets>
+</export>
